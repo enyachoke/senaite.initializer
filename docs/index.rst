@@ -1,0 +1,5 @@
+===================
+senaite.initializer
+===================
+
+User documentation
